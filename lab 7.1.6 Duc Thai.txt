@@ -1,0 +1,63 @@
+No.     Time           Source                Destination           Protocol Length Info
+     54 11.596030      192.168.0.13          192.168.0.1           ICMP     74     Echo (ping) request  id=0x0001, seq=56/14336, ttl=128 (reply in 55)
+
+Frame 54: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface \Device\NPF_{A515EAF6-4058-4E92-8E79-1C3E0DE5DCCB}, id 0
+Ethernet II, Src: f0:2f:74:9e:7e:0c, Dst: f8:5e:42:50:e8:d8
+Internet Protocol Version 4, Src: 192.168.0.13, Dst: 192.168.0.1
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 11.597395      192.168.0.1           192.168.0.13          ICMP     74     Echo (ping) reply    id=0x0001, seq=56/14336, ttl=64 (request in 54)
+
+Frame 55: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface \Device\NPF_{A515EAF6-4058-4E92-8E79-1C3E0DE5DCCB}, id 0
+Ethernet II, Src: f8:5e:42:50:e8:d8, Dst: f0:2f:74:9e:7e:0c
+Internet Protocol Version 4, Src: 192.168.0.1, Dst: 192.168.0.13
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 12.600753      192.168.0.13          192.168.0.1           ICMP     74     Echo (ping) request  id=0x0001, seq=57/14592, ttl=128 (reply in 59)
+
+Frame 58: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface \Device\NPF_{A515EAF6-4058-4E92-8E79-1C3E0DE5DCCB}, id 0
+Ethernet II, Src: f0:2f:74:9e:7e:0c, Dst: f8:5e:42:50:e8:d8
+Internet Protocol Version 4, Src: 192.168.0.13, Dst: 192.168.0.1
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 12.601872      192.168.0.1           192.168.0.13          ICMP     74     Echo (ping) reply    id=0x0001, seq=57/14592, ttl=64 (request in 58)
+
+Frame 59: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface \Device\NPF_{A515EAF6-4058-4E92-8E79-1C3E0DE5DCCB}, id 0
+Ethernet II, Src: f8:5e:42:50:e8:d8, Dst: f0:2f:74:9e:7e:0c
+Internet Protocol Version 4, Src: 192.168.0.1, Dst: 192.168.0.13
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 13.619655      192.168.0.13          192.168.0.1           ICMP     74     Echo (ping) request  id=0x0001, seq=58/14848, ttl=128 (reply in 61)
+
+Frame 60: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface \Device\NPF_{A515EAF6-4058-4E92-8E79-1C3E0DE5DCCB}, id 0
+Ethernet II, Src: f0:2f:74:9e:7e:0c, Dst: f8:5e:42:50:e8:d8
+Internet Protocol Version 4, Src: 192.168.0.13, Dst: 192.168.0.1
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 13.621269      192.168.0.1           192.168.0.13          ICMP     74     Echo (ping) reply    id=0x0001, seq=58/14848, ttl=64 (request in 60)
+
+Frame 61: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface \Device\NPF_{A515EAF6-4058-4E92-8E79-1C3E0DE5DCCB}, id 0
+Ethernet II, Src: f8:5e:42:50:e8:d8, Dst: f0:2f:74:9e:7e:0c
+Internet Protocol Version 4, Src: 192.168.0.1, Dst: 192.168.0.13
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 14.641760      192.168.0.13          192.168.0.1           ICMP     74     Echo (ping) request  id=0x0001, seq=59/15104, ttl=128 (reply in 72)
+
+Frame 71: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface \Device\NPF_{A515EAF6-4058-4E92-8E79-1C3E0DE5DCCB}, id 0
+Ethernet II, Src: f0:2f:74:9e:7e:0c, Dst: f8:5e:42:50:e8:d8
+Internet Protocol Version 4, Src: 192.168.0.13, Dst: 192.168.0.1
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     72 14.642868      192.168.0.1           192.168.0.13          ICMP     74     Echo (ping) reply    id=0x0001, seq=59/15104, ttl=64 (request in 71)
+
+Frame 72: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface \Device\NPF_{A515EAF6-4058-4E92-8E79-1C3E0DE5DCCB}, id 0
+Ethernet II, Src: f8:5e:42:50:e8:d8, Dst: f0:2f:74:9e:7e:0c
+Internet Protocol Version 4, Src: 192.168.0.1, Dst: 192.168.0.13
+Internet Control Message Protocol
